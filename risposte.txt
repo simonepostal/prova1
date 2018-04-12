@@ -1,0 +1,17 @@
+RISPOSTE SIMONE POSTAL
+----------------------
+
+1) GitHub è un servizio hosting per, principalmente, progetti software, questi progetti software possono essere pubblici o privati.
+Il servizio hosting per progetti pubblici, quindi open source,è gratuito mentre per i progetti privati è a pagamento.
+GitHub viene usato quindi per far lavorare più persone su uno stesso progetto in modo agevole e sicuro con un controllo versioni e accettazione
+o meno di modifiche che si vogliono apportare.
+
+2) Una repository privato si può creare andando su file->Init->github.com (come la normale creazione di un nuovo progetto) e scegliendo l'opzione
+"privato" invece che "pubblico" nel menu a tendina. Questo servizio però è sottoposto ad un pagamento.
+
+3) Fare un branch si intende creare una copia locale del progetto master, eseguire alcune modifiche che si vogliono effettuare e in seguito,
+quando si è sicuri del lavoro svolto, bisognerà fare una pull request seguita da un push per richiedere quindi di riunire il ramo creato al progetto master.
+
+4) Una issue serve per tenere traccia degli errori/bug i quali saranno poi visibili su un'apposita pagina sul sito di github. 
+
+5) Quando si dà il comando push vengono effettuate le modifiche apportate sul progetto nella repository di github.com.
